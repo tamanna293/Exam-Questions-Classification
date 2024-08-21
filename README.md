@@ -1,8 +1,6 @@
-# Exam-Questions-Classification
-An exam questions classification tool according to their corresponding difficulty level (Bloom's Taxonomy cognitive level) developed using Django.
-Topic: Bloom's Taxonomy Cognitive Level based Exam Questions Classification
+Topic: Exam Questions Classification App
 
-Description: Developed an innovative Bloom Taxonomy level exam questions classification tool for teachers using Django and NLP, designed to enhance the process of setting balanced and appropriately leveled exam papers.
+Description: Developed a Django based application for exam questions classification based on their Bloom’s Taxonomy cognitive levels to enhance the process of setting balanced leveled exam papers by automated question classification according to theircorresponding difficulty levels.
 
 Key Features: Automated Question Classification: Implemented an intuitive interface where teachers can enter exam questions and receive their Bloom Taxonomy level, aiding in the creation of comprehensive exams. Machine Learning Integration: Utilized NLP and machine learning algorithms to accurately classify exam questions into Bloom Taxonomy levels, showcasing advanced understanding of ML and data science concepts. Performance Evaluation: Conducted thorough performance evaluation of the classification model using data analysis and visualization techniques in Python, ensuring high accuracy and reliability.
 
